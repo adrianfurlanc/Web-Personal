@@ -1,1 +1,36 @@
+* {
+    font-family: 'sans-serif';
+}
 
+
+.contactTitle {
+    font-size: 1.7em;
+}
+
+.privacy {
+    font-size: 1em;
+    color: #999;
+}
+
+.tell {
+    font-size: 1.35em;
+}
+
+.fname {
+    font-size:13px;
+}
+
+.submit {
+    background-color: #5FC1CE;
+    border: 1px solid #5FC1CE;
+    color: white;
+    font-weight: bold;
+    width: 12.45em;
+    height: 3.5em;
+}
+
+.btn:active, .btn:focus {
+    color: white;
+    border: 1px solid #5FC1CE !important;
+    box-shadow: 0rem !important;
+}
