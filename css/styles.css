@@ -2,6 +2,11 @@
 	font-family: 'sans-serif';
 }
 
+/* body, .container-fluid {
+    width: 90%;
+    margin: 0 auto;
+} */
+
 .bgNavColor {
 	background-color: #2d3739;
 }
@@ -72,3 +77,4 @@ h6 {
     margin-left: 1em;
     margin-top: 2em;
 }
+
