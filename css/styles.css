@@ -131,7 +131,12 @@ img {
 	text-align: center;
 }
 
-.projectImage {
-	margin-left: 4em;
+.projectImage1 {
+	margin-left: 5em;
+	margin-top: 1em;
+}
+
+.projectImage2 {
+	margin-left: 5em;
 	margin-top: 1em;
 }
