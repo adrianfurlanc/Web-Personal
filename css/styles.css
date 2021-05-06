@@ -131,7 +131,16 @@ img {
 	text-align: center;
 }
 
-.projectImage {
-	margin-left: 4em;
-	margin-top: 1em;
+@media (min-width: 240px) {
+	.projectImage {
+		margin-left: 10em;
+		margin-top: 1em;
+	}
+}
+
+@media (min-width: 960px) {
+	.projectImage {
+		margin-left: 15.5em;
+		margin-top: 1em;
+	}
 }
