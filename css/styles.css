@@ -35,6 +35,7 @@
 	font-weight: bold;
 	width: 12.45em;
 	height: 3.5em;
+	margin-left: 1em;
 }
 
 .btn:active,
@@ -42,6 +43,10 @@
 	color: white;
 	border: 1px solid #5fc1ce !important;
 	box-shadow: 0rem !important;
+}
+
+.form-check {
+	padding-left: 1.7em;
 }
 
 footer {
@@ -62,7 +67,7 @@ footer p {
 	margin-top: 0.8em;
     margin-left: 1.3em;
     opacity: 0.8;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 i {
