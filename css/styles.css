@@ -114,6 +114,10 @@ img {
 	height: 28.5em;
 }
 
+.project1:hover, .project2:hover, .project3:hover, .project4:hover {
+	cursor: pointer;
+}
+
 .caseStudy {
 	color: white;
 	/* margin-top: 0,4em; */
