@@ -169,3 +169,50 @@ img {
 		margin-top: 1em;
 	}
 }
+
+/* HOME */
+.heroLink {
+	color:#5fc1ce;
+	font-weight: bold;
+}
+
+.heroLink:hover {
+	color: #5fc1ce;
+}
+
+.heroSection {
+	background-color: #313D3F;
+	color:white;
+	width: 100%;
+	height: 7em;
+	font-size: 2.5em;
+	/* text-align: center; */
+}
+
+.heroSectionP {
+	margin-top: 2em;
+	font-weight: normal;
+}
+
+.indexTitle {
+	font-size: 1.7em;
+	/* text-align: center; */
+}
+
+.expertise {
+	margin-top: 1em;
+	font-size: 0.7em;
+	font-weight: 200;
+}
+
+.checkout {
+	margin-top: 1.5em;
+	font-size:1.4em;
+	font-weight: 500;
+	height: 16em;
+}
+
+.start {
+	font-weight: 200;
+	border-radius: 1em;
+}
